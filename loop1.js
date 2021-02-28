@@ -1,9 +1,7 @@
-/* let tab = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-while (let i = 0; i < tab.length; i++) {
- */
-let tab = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-while (i = 0 tab.length) {
-  tab++
+let array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+let i = 0
+while (i < array.length) {
+  console.log(array[i])
+  i++
 }
-console.log(tab.length)
